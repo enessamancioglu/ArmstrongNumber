@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharachterCount", "Characht
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{75D1A6C3-C64D-468A-8AAD-BC417D6F9FDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueCharachter", "UniqueCharachter\UniqueCharachter.csproj", "{50821968-29F7-4C7E-9E5F-5B9B9E293970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmicablePairs", "AmicablePairs\AmicablePairs.csproj", "{508D4E94-91E3-42FB-A627-EFBDB06CF82E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{75D1A6C3-C64D-468A-8AAD-BC417D6F9FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D1A6C3-C64D-468A-8AAD-BC417D6F9FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D1A6C3-C64D-468A-8AAD-BC417D6F9FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50821968-29F7-4C7E-9E5F-5B9B9E293970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50821968-29F7-4C7E-9E5F-5B9B9E293970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50821968-29F7-4C7E-9E5F-5B9B9E293970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50821968-29F7-4C7E-9E5F-5B9B9E293970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508D4E94-91E3-42FB-A627-EFBDB06CF82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508D4E94-91E3-42FB-A627-EFBDB06CF82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508D4E94-91E3-42FB-A627-EFBDB06CF82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508D4E94-91E3-42FB-A627-EFBDB06CF82E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
